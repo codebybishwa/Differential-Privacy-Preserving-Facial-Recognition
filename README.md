@@ -17,3 +17,7 @@ This project implements a **Differential Privacy-Preserving Facial Recognition S
 - **PyTorch**: A deep learning framework used to build and train the CNN model.
 - **Opacus**: A library for implementing differential privacy in PyTorch models.
 - **CelebA Dataset**: A large-scale dataset used for training and evaluating the facial recognition model.
+
+- ![image](https://github.com/user-attachments/assets/f3134a88-5bf0-4a8f-9c35-ae6f8f685f4e) ![image](https://github.com/user-attachments/assets/b117ab8b-5665-442c-9e72-675efd17f662)
+
+
